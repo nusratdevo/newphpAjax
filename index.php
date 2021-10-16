@@ -37,7 +37,7 @@
   <div id="success-message"></div>
   <div id="modal">
     <div id="modal-form">
-      <h2>Edit Form</h2>
+      <h2>Edit Name Form</h2>
       <table cellpadding="10px" width="100%">
       </table>
       <div id="close-btn">X</div>
